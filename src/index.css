@@ -1,0 +1,21 @@
+body{
+  background-color: #24232a;
+  color:white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+}
+.btnContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.pokemonCard{
+  background-color: #17151d;
+  padding: 30px;
+  border-radius: 10px;
+  
+}
